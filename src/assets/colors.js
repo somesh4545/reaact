@@ -1,0 +1,1 @@
+export const COLORS = { primary: '#d0edf5', text: '#151b27', secondary: '#f5eee4', card: '#f3f6fb'// your colors }
